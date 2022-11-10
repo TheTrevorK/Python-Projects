@@ -1,2 +1,2 @@
 # Python-Project
-Brain-Tumor Classification
+Brain-Tumor Classification using Python
