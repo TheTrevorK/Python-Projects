@@ -1,1 +1,2 @@
-
+This contains my ongoing Thesis Capstone Project for my Masters Program. In the end, it will contain the csv file used, the EDA of the data, the analysis, and the modeling done. The project was looking into a Covid dataset from the CDC.
+The Research Questions was looking into how the age group of the patients impact the patient requiring hospitilizations. Then I looked into which variables are overall significant that a model could be created to tell whether an incoming patient is at risk of not surviving Covid.
