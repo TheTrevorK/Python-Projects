@@ -1,0 +1,5 @@
+Customer Renewal Report:
+
+- Leading a pivotal project, took charge of generating insightful monthly reports on customer behaviors and contract renewals. The core objective was to discern patterns in customer decisions, specifically whether opted for yearly or monthly renewals, allowed contracts to roll off, or indicated potential churn. This endeavor significantly contributed to a heightened understanding of contract dynamics and customer behaviors, showcasing analytical skills.
+- Executing precise PostgreSQL queries, skillfully retrieved pertinent data from the database, ensuring accuracy and relevance for subsequent analyses. This phase of the project showcased attention to detail and expertise in crafting effective database queries.
+- Efficiently processed data using Python and Pandas, creating informative pivot tables to distill complex datasets into actionable insights. Exported results to Excel, forming the foundation for a comprehensive report, showcasing the ability to translate data into valuable insights for strategic decision-making.
