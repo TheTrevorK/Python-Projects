@@ -1,3 +1,5 @@
 These files encapsulates my ongoing Thesis Capstone Project as part of my Masters Program. Upon completion, it will encompass the CSV file employed, the Exploratory Data Analysis (EDA) of the data, the detailed analysis, and the modeling undertaken. The focal point of the project involves an in-depth examination of a Covid dataset obtained from the CDC.
 
 The primary research questions revolve around investigating how the age group of patients influences their likelihood of requiring hospitalization. Subsequently, the exploration extends to identifying the variables that demonstrate overall significance, paving the way for the development of a predictive model. The ultimate goal is to create a model capable of assessing whether an incoming patient is at risk of not surviving Covid, based on pertinent factors extracted from the dataset.
+
+Two Jupyter Notebooks are provided: the first one showcasing the Exploratory Data Analysis (EDA) conducted with the dataset, and the second one encompassing the creation of the classification model.
