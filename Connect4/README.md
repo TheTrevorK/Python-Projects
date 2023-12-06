@@ -1,1 +1,1 @@
-My first Python Project I attempted. Created a Connect 4 Pygame for two players. Then created a version of Connect4 to play against AI.
+This marks my inaugural Python project—an exploration that led to the development of a Connect 4 Pygame designed for two players. Subsequently, I expanded the endeavor by crafting a version of Connect 4 tailored for interaction with artificial intelligence.
